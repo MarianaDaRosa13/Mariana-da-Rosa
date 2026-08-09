@@ -74,6 +74,7 @@ main { min-width: 0; }
 .hero { padding-bottom: 6rem; }
 .eyebrow { margin: 0 0 .55rem; color: var(--teal); font-size: .74rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
 .hero h2 { margin: 0 0 1.25rem; color: var(--navy-deep); font-family: var(--serif); font-size: clamp(2.5rem, 5vw, 4.4rem); font-weight: 600; letter-spacing: -.035em; line-height: 1.02; }
+.hero h2.intro-title { margin-bottom: .8rem; font-size: clamp(1.45rem, 2.4vw, 1.8rem); letter-spacing: -.015em; line-height: 1.2; }
 .lead { max-width: 780px; margin: 0 0 1.1rem; color: var(--navy); font-family: var(--serif); font-size: clamp(1.25rem, 2vw, 1.55rem); line-height: 1.55; }
 .hero p:not(.eyebrow):not(.lead) { max-width: 770px; }
 .contact-line { color: var(--muted); font-size: .88rem; }
