@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marianadarosa13.github.io/Mariana-da-Rosa/sitemap.xml
